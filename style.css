@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+}
+input[type="button"]{
+	padding: 10px 15px;
+    border: none;
+    background: none;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+#dis{
+	margin-bottom:10px;
+	padding: 28px;
+	font-size: 34px;
+    background-color: #36474d;
+    color: white;
+}
+table td{
+	background:#b1b4b5
+}
+td:hover{
+	background:#4a3c3c;
+	color:white !important;
+}
+
